@@ -1,6 +1,7 @@
 # OS command injection
 
 A small Flask app that lets a user enter a target and runs Nmap against it. It's intentionally vulnerable to OS command injection as a learning project to show how the bug happens, how it's exploited, and how it's fixed.
+
 **Only run this against hosts you own or have permission to scan, and only on networks you control.**
 
 ## Why this exists
